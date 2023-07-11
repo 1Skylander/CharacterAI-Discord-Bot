@@ -1,9 +1,9 @@
 {
-    "discord_bot_token": "_YOUR_DISCORD_TOKEN_",
-    "char_ai_user_token": "_YOUR_USER_TOKEN_",
+    "discord_bot_token": "MTEyNzg2MTI3NDgzMTc1MzQwNg.GRoxpW.GPe6r4taklibQiU7sQtBaVagvA8Fkhk1zqH8gg",
+    "char_ai_user_token": "85f26345926913e2341cef4656513498b5b0b56a",
 
     "discord_bot_role": "Manage Character",
-    "discord_bot_call_prefixes": [ ".ai ", "!!" ],
+    "discord_bot_call_prefixes": [ ".ai ", "@Carl#8941" ],
     "discord_bot_command_subprefix": "#",
     "discord_private_category_name": "CAI PRIVATE CHANNELS",
 
@@ -16,7 +16,7 @@
     "use_character_avatar": true,
     "use_character_name": true,
     "description_in_playing_status": true,
-    "allow_dm": true,
+    "allow_dm": false,
 
     "rate_limit": 10,
     "default_replies_delay": 1,
@@ -24,8 +24,8 @@
     "enable_stop_button": true,
     "buttons_remove_delay": 120,
 
-    "auto_setup": false,
-    "auto_char_id": "_CHARACTER_ID_",
+    "auto_setup": true,
+    "auto_char_id": "j_8SDKBGb4dhfD9807koGXG5YEYlDZNFm3_HOIMOirU",
 
     "custom_chrome_directory": null,
     "custom_chrome_executable_full_path": null,
