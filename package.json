@@ -1,0 +1,8 @@
+{
+  "name": "CharacterAI-Discord-Bot",
+  "author": "drizzle-mizzle",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
