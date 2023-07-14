@@ -5,7 +5,7 @@
   "connector": false,
   "events": [
     {
-      "slack.message.channels": {
+      "discord.message.create": {
         "filename": "functions/events/discord/bot_mention.js"
       }
     }
