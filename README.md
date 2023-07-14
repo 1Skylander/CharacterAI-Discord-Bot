@@ -1,4 +1,3 @@
-[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
 # CharacterAI Discord Bot
 An unofficial Discord integration with a [CharacterAI](https://beta.character.ai/) service which you can use to add any character on your own Discord server.
 
@@ -10,6 +9,8 @@ An unofficial Discord integration with a [CharacterAI](https://beta.character.ai
 <sup><b>If you found this project useful, the best way to thank me is to simply leave a star ⭐<br>
 My [Discord Server](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot/discussions/22#discussioncomment-5502307) | Based on [CharacterAI.Net](https://github.com/drizzle-mizzle/CharacterAI.Net-API-Wrapper)</b></sup>
 </div>
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 ## 🪄Features
 - Talk with any character on your own server and change them on the fly
