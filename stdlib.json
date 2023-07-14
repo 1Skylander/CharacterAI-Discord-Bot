@@ -1,0 +1,13 @@
+{
+  "name": " drizzle-mizzle",
+  "version": "0.0.0",
+  "timeout": 30000,
+  "connector": false,
+  "events": [
+    {
+      "slack.message.channels": {
+        "filename": "functions/events/discord/bot_mention.js"
+      }
+    }
+  ]
+}
